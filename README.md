@@ -16,8 +16,9 @@ Requirements
 
 ## Live site
 
-Availabe on this link: https://aggrey-odinga.github.io/Independent-project-Quiz-Board/
-Figma Design available on this link: https://www.figma.com/file/qgqbaCNmekHzQGGI6VTBg3/Quiz-board?node-id=0%3A1
+* Availabe on this link: https://aggrey-odinga.github.io/Independent-project-Quiz-Board/
+
+* Figma Design available on this link: https://www.figma.com/file/qgqbaCNmekHzQGGI6VTBg3/Quiz-board?node-id=0%3A1
 
 
 ### By Aggrey Odinga
