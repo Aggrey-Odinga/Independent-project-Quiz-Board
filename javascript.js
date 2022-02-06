@@ -49,4 +49,23 @@ let score = 0
 
 loadQuiz()
 
+function loadQuiz() {
+
+    deselectAnswers()
+
+    const currentQuizData = quizData[currentQuiz]
+
+    questionE1.innerText = currentQuiz.question
+    a_text.innerText = currentQuizData.a
+    b_text.innerText = currentQuizData.b
+    c_text.innerText = currentQuizData.c
+    d_text.innerText = currentQuizData.d
+
+}
+
+function deselectAnswers() {
+    answerE1s.forEach(answerE1s => answerE1s.checked = false)
+}
+
+
 
