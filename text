@@ -1,0 +1,35 @@
+Demo Questions
+
+
+question: "JavaScript File Has An Extension of?",
+a: ".Java",
+b: ".Js",
+c: ".javascript",
+d: ".xml",
+correct:"b",
+
+   
+question: "Inside which HTML element do we put the JavaScript?",
+
+a: "Js",
+b: "JavaScript",
+c: "Script",
+d: "Scripting",
+correct: "b"
+
+question: "If Button is clicked .......Event Handler is invoked",
+
+a: "OnSubmit()",
+b: "OnLoad()",
+c: "IsPostBack()",
+d: "Onclick()",
+correct: "d"
+
+question: "Method Prompt() Contain ........Number of Parameters",
+
+a: "One",
+b: "Two",
+c: "Three",
+d: "Zero",
+
+
