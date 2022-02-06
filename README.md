@@ -14,6 +14,11 @@ Requirements
 * Ensure you have access to a browser via phone, tablet or computer. 
 * Click on the live link in the about section
 
+## Live site
+
+Figma Design available on this link: https://www.figma.com/file/qgqbaCNmekHzQGGI6VTBg3/Quiz-board?node-id=0%3A1
+
+
 ### By Aggrey Odinga
 
 ## License
